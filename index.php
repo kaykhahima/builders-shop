@@ -1,55 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Ecommerce &raquo; HTML Template" />
-<meta name="author" content="https://www.themetechmount.com/" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>Fixfellow &#8211; Tools Store Ecommerce Html Template</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content="HTML5 Template" />
+    <meta name="description" content="Ecommerce &raquo; HTML Template" />
+    <meta name="author" content="https://www.themetechmount.com/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>Bulider's Shop</title>
 
-<!-- favicon icon -->
-<link rel="shortcut icon" href="images/favicon.png" />
+    <!-- favicon icon -->
+    <link rel="shortcut icon" href="images/favicon.png" />
 
-<!-- bootstrap -->
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+    <!-- bootstrap -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 
-<!-- animate -->
-<link rel="stylesheet" type="text/css" href="css/animate.css"/>
+    <!-- animate -->
+    <link rel="stylesheet" type="text/css" href="css/animate.css" />
 
-<!-- fontawesome -->
-<link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
+    <!-- fontawesome -->
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
 
-<!-- themify -->
-<link rel="stylesheet" type="text/css" href="css/themify-icons.css"/>
+    <!-- themify -->
+    <link rel="stylesheet" type="text/css" href="css/themify-icons.css" />
 
-<!-- slick -->
-<link rel="stylesheet" type="text/css" href="css/slick.css">
+    <!-- slick -->
+    <link rel="stylesheet" type="text/css" href="css/slick.css">
 
-<!-- slick -->
-<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="css/slick-theme.css">
 
-<!-- REVOLUTION LAYERS STYLES -->
+    <!-- REVOLUTION LAYERS STYLES -->
 
     <link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
 
     <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
 
-<!-- magnific-popup -->
-<link rel="stylesheet" type="text/css" href="css/magnific-popup.css"/>
+    <!-- magnific-popup -->
+    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css" />
 
-<!-- megamenu -->
-<link rel="stylesheet" type="text/css" href="css/megamenu.css">
+    <!-- megamenu -->
+    <link rel="stylesheet" type="text/css" href="css/megamenu.css">
 
-<!-- shortcodes -->
-<link rel="stylesheet" type="text/css" href="css/shortcodes.css"/>
+    <!-- shortcodes -->
+    <link rel="stylesheet" type="text/css" href="css/shortcodes.css" />
 
-<!-- main -->
-<link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <!-- main -->
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
 
-<!-- responsive -->
-<link rel="stylesheet" type="text/css" href="css/responsive.css"/>
+    <!-- responsive -->
+    <link rel="stylesheet" type="text/css" href="css/responsive.css" />
 
 </head>
 
@@ -58,7 +58,9 @@
     <!--page start-->
     <div class="page">
 
+
         <!--newsletter_popup_wrap start-->
+        <!--
         <div class="newsletter_popup_wrap newsletter">
             <div class="newsletter_content">
                 <button type="button" class="close" data-dismiss="newsletter">&times;</button>
@@ -72,7 +74,7 @@
                         </div>
                         <h4>Join Our Newsletter</h4>
                         <p>Subscribe The Fixfellow</p>
-                        <!--subscribe_form start-->
+                        subscribe_form start
                         <form id="subscribe_form" class="subscribe_form" method="post" action="#" data-mailchimp="true">
                             <div class="newsletter_main" id="subscribe_content">
                                 <div class="form-row">
@@ -87,46 +89,18 @@
                             </div>
                             <div id="subscribe-massage"></div>
                         </form>
-                        <!--subscribe_form end-->
+                        subscribe_form end
                     </div>
                 </div>
             </div>
         </div>
+-->
         <!--newsletter_popup_wrap end-->
+
 
         <!--header start-->
         <header id="masthead" class="header ttm-header-style-01">
-            <!-- top_bar -->
-            <div class="top_bar">
-                <div class="container">
-                    <div class="row">
-                        <div class="col d-md-flex flex-row">
-                            <div class="top_bar_contact_item">Winter-Season Sale Up To <span class="ttm-textcolor-highlight"> 25% OFF </span> Use Coupne Code <div class="coupen_code ttm-textcolor-highlight">“SALEON”</div></div>
-                            <div class="top_bar_content ml-auto">
-                                <div class="top_bar_user">
-                                    <div><a href="#">Wishlist (0)</a></div>
-                                    <div class="top_bar_menu">
-                                        <ul class="top_bar_dropdown">
-                                            <li><a href="#" data-toggle="dropdown">$ Currency</a>
-                                                <ul>
-                                                    <li><a href="#">EUR €</a></li>
-                                                    <li><a href="#">USD $</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#" data-toggle="dropdown"><span class="mr-2"><img src="images/flag.jpg" alt="img"></span>Language</a>
-                                                <ul>
-                                                    <li><a href="#"><span class="mr-2"><img src="images/English-icon.jpg" alt="img"></span>English</a></li>
-                                                    <li><a href="#"><span class="mr-2"><img src="images/French-icon.jpg" alt="img"></span>French</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- top_bar end-->
+
             <!-- header_main -->
             <div class="header_main">
                 <div class="container">
@@ -134,13 +108,14 @@
                         <div class="col-lg-3 col-sm-3 col-3 order-1">
                             <!-- site-branding -->
                             <div class="site-branding">
-                                <a class="home-link" href="index.html" title="Fixfellow" rel="home">
+                                <a class="home-link" href="index.php" title="Fixfellow" rel="home">
                                     <img id="logo-img" class="img-center" src="images/logo-img.png" alt="logo-img">
                                 </a>
                             </div><!-- site-branding end -->
                         </div>
                         <div class="col-lg-6 col-12 order-lg-2 order-3 text-lg-left text-right">
-                            <div class="header_search"><!-- header_search -->
+                            <div class="header_search">
+                                <!-- header_search -->
                                 <div class="header_search_content">
                                     <div id="search_block_top" class="search_block_top">
                                         <form id="searchbox" method="get" action="#">
@@ -227,7 +202,9 @@
                                     <div class="cat_menu_container">
                                         <a href="#" class="cat_menu d-flex flex-row align-items-center">
                                             <div class="cat_icon"><i class="fa fa-bars"></i></div>
-                                            <div class="cat_text"><span>Shop by</span><h4>Categories</h4></div>
+                                            <div class="cat_text"><span>Shop by</span>
+                                                <h4>Categories</h4>
+                                            </div>
                                         </a>
                                         <ul class="cat_menu_list menu-vertical">
                                             <li><a href="#" class="close-side"><i class="fa fa-times"></i></a></li>
@@ -334,14 +311,13 @@
                                                 <span class="menubar-inner"></span>
                                             </span>
                                         </div>
-                                        <!-- menu -->
                                         <nav class="menu menu-mobile" id="menu">
                                             <ul class="nav">
                                                 <li class="mega-menu-item active">
                                                     <a href="#" class="mega-menu-link">Home</a>
                                                     <ul class="mega-submenu">
-                                                        <li class="active"><a href="index.html">Sample Homepage 1</a></li>
-                                                        <li><a href="home-2.html">Sample Homepage 2</a></li>
+                                                        <li><a href="index.html">Sample Homepage 1</a></li>
+                                                        <li class="active"><a href="home-2.html">Sample Homepage 2</a></li>
                                                         <li><a href="home-3.html">Sample Homepage 3</a></li>
                                                         <li class="mega-menu-item">
                                                             <a href="#" class="mega-menu-link">Header Styles</a>
@@ -402,8 +378,8 @@
                                                                     <div class="content">
                                                                         <ul class="menu-col">
                                                                             <li><a href="shop.html">
-                                                                                <img class="img-fluid" src="https://via.placeholder.com/265x141?text=265x141+Banner.jpg" alt="bimg">
-                                                                            </a></li>
+                                                                                    <img class="img-fluid" src="https://via.placeholder.com/265x141?text=265x141+Banner.jpg" alt="bimg">
+                                                                                </a></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div><!-- end col-3 -->
@@ -433,369 +409,62 @@
                     </div>
                 </div>
             </div><!-- site-header-menu end -->
-        </header><!--header end-->
+        </header>
+        <!--header end-->
 
-        <div id="rev_slider_5_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay" data-alias="classic4export" data-source="gallery">
+        <div id="rev_slider_5_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery">
             <!-- START REVOLUTION SLIDER -->
-            <div id="rev_slider_5_1" class="rev_slider fullwidthabanner" data-version="5.4.8">
+            <div id="rev_slider_5_2" class="rev_slider fullwidthabanner" data-version="5.4.8">
                 <ul>
-                    <li data-index="rs-6" data-transition="fade" data-slotamount="1" data-easein="default" data-easeout="default" data-masterspeed="1500" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    <li data-index="rs-6" data-transition="fade" data-slotamount="1" data-easein="default" data-easeout="default" data-masterspeed="1500" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
 
                         <!-- MAIN IMAGE -->
-                        <img src="https://via.placeholder.com/1920x649?text=1920x649+Banner"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="https://via.placeholder.com/1920x330.5?text=1920x330.5+Banner" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
-                        <div class="tp-caption tp-resizeme" id="slide-6-layer-1" data-x="['right','right','right','center']" data-hoffset="['50','40','-520','-520']"
-                            data-y="['top','top','top','top']" data-voffset="['103','103','63','63']"
-
-                            data-fontsize="['23','23','23','23']"
-                            data-lineheight="['30','30','30','30']"
-                            data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[100%];y:0px;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[-150%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:inherit;e:inherit;"
-                            data-start="600"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            data-type="text"
-                            data-responsive_offset="on"> Sliding Compound Miter Saw
+                        <div class="tp-caption tp-resizeme" id="slide-6-layer-1" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','top']" data-voffset="['161','161','75','60']" data-fontsize="['65','65','60','50']" data-lineheight="['80','80','70','65']" data-fontweight="['600','600','600','600']" data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;" data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;" data-start="600" data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-type="text" data-responsive_offset="on">Hardest <strong class="ttm-textcolor-highlight"> Hitting</strong>
                         </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption rev-shape ttm-bgcolor-skincolor tp-resizeme" id="slide-6-layer-2" data-x="['right','right','right','center']"
-                            data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['151','151','80','-100']"
-
-                            data-fontsize="['16','16','14','13']"
-                            data-lineheight="['20','20','20','12']"
-                            data-fontweight="['400','400','400','400']"
-                            data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(242, 244, 248)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[100%];y:0px;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[-150%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:inherit;e:inherit;"
-                            data-start="800"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[13,13,10,10]"
-                            data-paddingright="[22,22,22,10]"
-                            data-paddingbottom="[11,11,10,10]"
-                            data-paddingleft="[22,22,22,10]"
-                            data-type="text"
-                            data-responsive_offset="on">Online & In - Stores: Aug 1  - 30
+                        <div class="tp-caption tp-resizeme" id="slide-6-layer-2" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['241','241','141','-40']" data-fontsize="['78','78','70','64']" data-lineheight="['90','90','82','77']" data-fontweight="['600','600','600','600']" data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;" data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;" data-start="800" data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-type="text" data-responsive_offset="on">HAMMERS.
                         </div>
 
                         <!-- LAYER NR. 3 -->
-                        <div class="tp-caption tp-resizeme" id="slide-6-layer-3" data-x="['right','right','right','center']" data-hoffset="['50','40','30','0']"
-                            data-y="['top','top','top','middle']" data-voffset="['219','219','140','-45']"
-
-                            data-fontsize="['48','48','42','42']"
-                            data-lineheight="['52','52','48','48']"
-                            data-fontweight="['600','600','600','600']"
-                            data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[100%];y:0px;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[-150%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:inherit;e:inherit;"
-                            data-start="1000"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            data-type="text"
-                            data-responsive_offset="on">Mad Sell Goods at a
+                        <div class="tp-caption tp-resizeme" id="slide-6-layer-3" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['325','325','217','25']" data-fontsize="['65','65','60','50']" data-lineheight="['80','80','70','65']" data-fontweight="['600','600','600','600']" data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;" data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;" data-start="1000" data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-type="text" data-responsive_offset="on">Longest Lasting <strong class="ttm-textcolor-highlight">Bits.</strong>
                         </div>
+
 
                         <!-- LAYER NR. 4 -->
-                        <div class="tp-caption tp-resizeme" id="slide-6-layer-4" data-x="['right','right','right','center']" data-hoffset="['50','40','30','0']"
-                            data-y="['top','top','top','middle']" data-voffset="['286','286','199','0']"
-
-                            data-fontsize="['48','48','42','42']"
-                            data-lineheight="['52','52','48','48']"
-                            data-fontweight="['600','600','600','600']"
-                            data-color="['rgba(255, 210, 0,1)','rgba(255, 210, 0,1)','rgba(255, 210, 0,1)','rgba(255, 210, 0,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[100%];y:0px;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[-150%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:inherit;e:inherit;"
-                            data-start="1200"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            data-type="text"
-                            data-responsive_offset="on">Save Up To $29
-                        </div>
-
-                        <!-- LAYER NR. 5 -->
-                        <div class="tp-caption tp-resizeme" id="slide-6-layer-5" data-x="['right','right','right','center']" data-hoffset="['50','40','30','0']"
-                            data-y="['top','top','top','middle']" data-voffset="['352','352','255','45']"
-
-                            data-fontsize="['48','48','42','42']"
-                            data-lineheight="['52','52','48','48']"
-                            data-fontweight="['600','600','600','600']"
-                            data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[100%];y:0px;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[-150%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:inherit;e:inherit;"
-                            data-start="1400"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            data-type="text"
-                            data-responsive_offset="on">Instantly
-                        </div>
-
-                        <!-- LAYER NR. 6 -->
-                        <a class="tp-caption rev-button ttm-bgcolor-highlight" href="#" target="_self" id="slide-6-layer-6" data-x="['right','right','right','center']" data-hoffset="['50','40','30','0']" data-y="['bottom','bottom','bottom','middle']" data-voffset="['163','163','75','103']"
-
-                            data-fontsize="['15','15','14','12']"
-                            data-lineheight="['20','20','16','15']"
-                            data-fontweight="['600','600','600','600']"
-                            data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:500;e:Power4.easeInOut;"
-                            data-style_hover="c:rgb(255, 255, 255);bg:rgb(0, 11, 28);"
-                            data-transform_in="x:[100%];y:0px;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[-150%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:inherit;e:inherit;"
-                            data-start="1600"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[15,15,14,14]"
-                            data-paddingright="[30,30,22,22]"
-                            data-paddingbottom="[14,14,12,12]"
-                            data-paddingleft="[30,30,22,22]"
-                            data-type="button"
-                            data-responsive_offset="on" >SHOP NOW!<span class="ml-2"><i class="themifyicon ti-angle-right"></i></span>
+                        <a class="tp-caption rev-button ttm-bgcolor-highlight" href="#" target="_self" id="slide-6-layer-4" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['bottom','bottom','bottom','middle']" data-voffset="['168','153','95','110']" data-fontsize="['15','15','14','12']" data-lineheight="['20','20','16','15']" data-fontweight="['600','600','600','600']" data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:500;e:Power4.easeInOut;" data-style_hover="c:rgb(255, 255, 255);bg:rgb(0, 11, 28);" data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;" data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;" data-start="1200" data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,14,14]" data-paddingright="[30,30,22,22]" data-paddingbottom="[14,14,12,12]" data-paddingleft="[30,30,22,22]" data-type="text" data-responsive_offset="on">SHOP NOW!<span class="ml-2"><i class="themifyicon ti-angle-right"></i></span>
                         </a>
 
                     </li>
 
                     <!-- SLIDE  -->
-                    <li data-index="rs-7" data-transition="fade" data-slotamount="1"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    <li data-index="rs-7" data-transition="fade" data-slotamount="1" data-easein="default" data-easeout="default" data-masterspeed="1500" data-thumb="https://via.placeholder.com/1920x330.5?text=1920x330.5+Banner" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
 
                         <!-- MAIN IMAGE -->
-                        <img src="https://via.placeholder.com/1920x661?text=1920x661+Banner"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="https://via.placeholder.com/1920x330.5?text=1920x330.5+Banner" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
-                        <div class="tp-caption tp-resizeme" id="slide-7-layer-1" data-x="['right','right','right','right']" data-hoffset="['-207','-100','-80','-40']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                        <div class="tp-caption tp-resizeme" id="slide-7-layer-1" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','top']" data-voffset="['162','162','79','63']" data-fontsize="['65','65','60','50']" data-lineheight="['80','80','70','65']" data-fontweight="['600','600','600','600']" data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;" data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;" data-start="600" data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-type="text" data-responsive_offset="on">Selected 5 PC and
 
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-style_hover="c:rgba(255, 255, 255, 1.00);"
-
-                            data-transform_in="y:bottom;rX:-20deg;rY:-20deg;rZ:0deg;s:1500;e:Power3.easeOut;"
-                            data-transform_out="opacity:0;s:2000;e:Power4.easeIn;s:2000;e:Power4.easeIn;"
-                            data-start="1000"
-
-                            data-responsive_offset="on" ><img src="images/slides/slider-mainbg-004.png" alt="" data-ww="['981px','781px','451px','261px']" data-hh="['480px','571px','371px','221px']" data-no-retina>
                         </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption tp-resizeme" id="slide-7-layer-2" data-x="['left','left','left','left']" data-hoffset="['50','40','-520','-520']"
-                            data-y="['top','top','top','top']" data-voffset="['103','103','63','63']"
-
-                            data-fontsize="['23','23','23','23']"
-                            data-lineheight="['30','30','30','30']"
-                            data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[-50%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;"
-                            data-start="600"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            data-type="text"
-                            data-responsive_offset="on">Sliding Compound Miter Saw
+                        <div class="tp-caption tp-resizeme" id="slide-7-layer-2" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['240','240','146','-45']" data-fontsize="['65','65','60','50']" data-lineheight="['80','80','70','65']" data-fontweight="['600','600','600','600']" data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;" data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;" data-start="800" data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-type="text" data-responsive_offset="on">Above <strong class="ttm-textcolor-highlight"> Brushless</strong>
                         </div>
 
-                        <!-- LAYER NR. 3 -->
-                        <div class="tp-caption rev-shape ttm-bgcolor-skincolor tp-resizeme" id="slide-7-layer-3" data-x="['left','left','left','left']"
-                            data-hoffset="['50','40','30','30']" data-y="['top','top','top','middle']" data-voffset="['151','151','80','-100']"
-
-                            data-fontsize="['16','16','14','13']"
-                            data-lineheight="['20','20','20','12']"
-                            data-fontweight="['400','400','400','400']"
-                            data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(242, 244, 248)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;"
-                            data-start="800"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[13,13,10,10]"
-                            data-paddingright="[22,22,22,10]"
-                            data-paddingbottom="[11,11,10,10]"
-                            data-paddingleft="[22,22,22,10]"
-                            data-type="text"
-                            data-responsive_offset="on">12 Inch / 15 Amp / Dual Bevel
+                        <!-- LAYER NR. 3-->
+                        <div class="tp-caption tp-resizeme" id="slide-7-layer-3" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['319','319','214','15']" data-fontsize="['65','65','60','50']" data-lineheight="['80','80','70','65']" data-fontweight="['600','600','600','600']" data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;" data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;" data-start="1000" data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-type="text" data-responsive_offset="on">Combo Kits
                         </div>
 
-                        <!-- LAYER NR. 4-->
-                        <div class="tp-caption tp-resizeme" id="slide-7-layer-4" data-x="['left','left','left','left']" data-hoffset="['50','40','30','30']"
-                            data-y="['top','top','top','middle']" data-voffset="['219','219','140','-45']"
-
-                            data-fontsize="['48','48','42','38']"
-                            data-lineheight="['52','52','48','38']"
-                            data-fontweight="['600','600','600','600']"
-                            data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;"
-                            data-start="1000"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            data-type="text"
-                            data-responsive_offset="on">Mad Sell Goods at a
-                        </div>
-
-                        <!-- LAYER NR. 5 -->
-                        <div class="tp-caption tp-resizeme" id="slide-7-layer-5" data-x="['left','left','left','left']" data-hoffset="['50','40','30','30']"
-                            data-y="['top','top','top','middle']" data-voffset="['286','286','199','0']"
-
-                            data-fontsize="['48','48','42','38']"
-                            data-lineheight="['52','52','48','38']"
-                            data-fontweight="['600','600','600','600']"
-                            data-color="['rgba(255, 210, 0,1)','rgba(255, 210, 0,1)','rgba(255, 210, 0,1)','rgba(255, 210, 0,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[-50%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;"
-                            data-start="1200"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            data-type="text"
-                            data-responsive_offset="on">Discount 20% Off
-                        </div>
-
-                        <!-- LAYER NR. 6 -->
-                        <div class="tp-caption tp-resizeme" id="slide-7-layer-6" data-x="['left','left','left','left']" data-hoffset="['50','40','30','30']"
-                            data-y="['top','top','top','middle']" data-voffset="['352','352','255','45']"
-
-                            data-fontsize="['48','48','42','38']"
-                            data-lineheight="['52','52','48','38']"
-                            data-fontweight="['600','600','600','600']"
-                            data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;"
-                            data-start="1400"
-
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            data-type="text"
-                            data-responsive_offset="on">Until of January!
-                        </div>
-
-                        <!-- LAYER NR. 7 -->
-                        <a class="tp-caption rev-button ttm-bgcolor-highlight" href="#" target="_self" id="slide-7-layer-7" data-x="['left','left','left','left']" data-hoffset="['50','40','30','30']"  data-y="['bottom','bottom','bottom','middle']" data-voffset="['163','163','75','103']"
-
-                            data-fontsize="['15','15','14','12']"
-                            data-lineheight="['20','20','16','15']"
-                            data-fontweight="['600','600','600','600']"
-                            data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-
-                            data-transform_idle="o:1;"
-                            data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:500;e:Power4.easeInOut;"
-                            data-style_hover="c:rgb(255, 255, 255);bg:rgb(0, 11, 28);"
-                            data-transform_in="x:[-200%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;"
-                            data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;"
-                            data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;"
-                            data-start="1600"
-
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[15,15,14,14]"
-                            data-paddingright="[30,30,22,22]"
-                            data-paddingbottom="[14,14,12,12]"
-                            data-paddingleft="[30,30,22,22]"
-                            data-type="text"
-                            data-responsive_offset="on" >SHOP NOW!<span class="ml-2"><i class="themifyicon ti-angle-right"></i></span>
+                        <!-- LAYER NR. 4 -->
+                        <a class="tp-caption rev-button ttm-bgcolor-highlight" href="#" target="_self" id="slide-7-layer-4" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['bottom','bottom','bottom','middle']" data-voffset="['174','174','88','105']" data-fontsize="['15','15','14','12']" data-lineheight="['20','20','16','15']" data-fontweight="['600','600','600','600']" data-color="['rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)','rgba(10, 28, 55,1)']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:500;e:Power4.easeInOut;" data-style_hover="c:rgb(255, 255, 255);bg:rgb(0, 11, 28);" data-transform_in="x:[-175%];y:0px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeOut;" data-transform_out="x:auto;y:auto;opacity:0;s:1500;e:Power4.easeIn;" data-mask_in="x:[100%];y:0px;s:inherit;e:inherit;" data-start="1200" data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,14,14]" data-paddingright="[30,30,22,22]" data-paddingbottom="[14,14,12,12]" data-paddingleft="[30,30,22,22]" data-type="text" data-responsive_offset="on">SHOP NOW!<span class="ml-2"><i class="themifyicon ti-angle-right"></i></span>
                         </a>
                     </li>
                 </ul>
@@ -804,317 +473,1491 @@
         </div>
         <!-- END REVOLUTION SLIDER -->
 
+
         <!--site-main start-->
         <div class="site-main">
 
-            <!-- row-top-section -->
-            <section class="row-top-section clearfix">
+            <!-- sidebar -->
+            <div class="sidebar ttm-sidebar-left pt-40 pb-40 clearfix">
                 <div class="container">
+                    <!-- row -->
                     <div class="row">
-                        <div class="col-lg-12">
-                            <div class="mt_50 res-991-mt-0">
-                                <div class="row no-gutters">
-                                    <div class="col-lg-4 col-md-4 col-sm-12">
-                                        <!-- featured-icon-box -->
-                                        <div class="featured-icon-box style1 ttm-bgcolor-grey">
-                                            <div class="featured-icon">
-                                                <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                                    <i class="themifyicon ti-truck"></i>
+                        <div class="col-lg-3 widget-area sidebar-left">
+                            <aside class="widget widget-text">
+                                <h3 class="widget-title">Special Offers</h3>
+                                <div class="ttm_info_widget">
+                                    <span>Handyman Tools</span>
+                                    <div class="title">
+                                        <h3>Limited Time <strong>Offers!</strong></h3>
+                                    </div>
+                                    <div class="content">
+                                        <p>It’s All Power You Need!</p>
+                                        <h4>Up To <strong>35%</strong> Off!</h4>
+                                    </div>
+                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline" href="#">Shopping Now!</a>
+                                </div>
+                            </aside>
+                            <aside class="widget products top-rated-products">
+                                <h3 class="widget-title">Featured Products</h3>
+                                <ul class="product-list-widget product">
+                                    <li>
+                                        <a href="#"><img src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt=""></a>
+                                        <div class="product-content-box">
+                                            <div class="star-ratings">
+                                                <ul class="rating">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                </ul>
+                                            </div>
+                                            <a class="product-title" href="product-layout1.html">
+                                                <h2>Hammer Drill</h2>
+                                            </a>
+                                            <span class="price">
+                                                <span class="product-Price-amount">
+                                                    <span class="product-Price-currencySymbol">$</span>77.00
+                                                </span>
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a href="#"><img src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt=""></a>
+                                        <div class="product-content-box">
+                                            <div class="star-ratings">
+                                                <ul class="rating">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                </ul>
+                                            </div>
+                                            <a class="product-title" href="product-layout1.html">
+                                                <h2>Impact Wrench</h2>
+                                            </a>
+                                            <span class="price">
+                                                <ins><span class="product-Price-amount">
+                                                        <span class="product-Price-currencySymbol">$</span>110.00
+                                                    </span>
+                                                </ins>
+                                                <del><span class="product-Price-amount">
+                                                        <span class="product-Price-currencySymbol">$</span>123.00
+                                                    </span>
+                                                </del>
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a href="#"><img src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt=""></a>
+                                        <div class="product-content-box">
+                                            <div class="star-ratings">
+                                                <ul class="rating">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                </ul>
+                                            </div>
+                                            <a class="product-title" href="product-layout1.html">
+                                                <h2>Tape Measure</h2>
+                                            </a>
+                                            <span class="price">
+                                                <span class="product-Price-amount">
+                                                    <span class="product-Price-currencySymbol">$</span>24.00
+                                                </span>
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a href="#"><img src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt=""></a>
+                                        <div class="product-content-box">
+                                            <div class="star-ratings">
+                                                <ul class="rating">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                </ul>
+                                            </div>
+                                            <a class="product-title" href="product-layout1.html">
+                                                <h2>Circular Saw</h2>
+                                            </a>
+                                            <span class="price">
+                                                <ins><span class="product-Price-amount">
+                                                        <span class="product-Price-currencySymbol">$</span>124.00
+                                                    </span>
+                                                </ins>
+                                                <del><span class="product-Price-amount">
+                                                        <span class="product-Price-currencySymbol">$</span>111.00
+                                                    </span>
+                                                </del>
+                                            </span>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </aside>
+                            <aside class="widget widget-testimonial">
+                                <h3 class="widget-title">Testimonial</h3>
+                                <!-- wrap-testimonial -->
+                                <!-- testimonial_slick_slider -->
+                                <div class="testimonial_slick_slider" data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "arrows":false, "dots":true, "autoplay":true, "infinite":true}'>
+                                    <!-- testimonials -->
+                                    <div class="testimonials ttm-testimonial-box-view-style2">
+                                        <div class="testimonial-content">
+                                            <blockquote class="ttm-testimonial-text">Satisfied customer is the best source of advertise &shy;ment, & I'm one of those custom satisfied.</blockquote>
+                                            <div class="testimonial-avatar">
+                                                <div class="testimonial-img">
+                                                    <img class="img-fluid" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
                                                 </div>
+                                                <div class="testimonial-caption">
+                                                    <h5>Leax May</h5>
+                                                    <label>Web Canst</label>
+                                                    <div class="star-ratings">
+                                                        <ul class="rating">
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><!-- testimonials end -->
+                                    <!-- testimonials -->
+                                    <div class="testimonials ttm-testimonial-box-view-style2">
+                                        <div class="testimonial-content">
+                                            <blockquote class="ttm-testimonial-text">Satisfied customer is the best source of advertise &shy;ment, & I'm one of those custom satisfied.</blockquote>
+                                            <div class="testimonial-avatar">
+                                                <div class="testimonial-img">
+                                                    <img class="img-fluid" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
+                                                </div>
+                                                <div class="testimonial-caption">
+                                                    <h5>Alan Sears</h5>
+                                                    <label>Web Canst</label>
+                                                    <div class="star-ratings">
+                                                        <ul class="rating">
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><!-- testimonials end -->
+                                    <!-- testimonials -->
+                                    <div class="testimonials ttm-testimonial-box-view-style2">
+                                        <div class="testimonial-content">
+                                            <blockquote class="ttm-testimonial-text">Satisfied customer is the best source of advertise &shy;ment, & I'm one of those custom satisfied.</blockquote>
+                                            <div class="testimonial-avatar">
+                                                <div class="testimonial-img">
+                                                    <img class="img-fluid" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
+                                                </div>
+                                                <div class="testimonial-caption">
+                                                    <h5>Alex Jones</h5>
+                                                    <label>Web Canst</label>
+                                                    <div class="star-ratings">
+                                                        <ul class="rating">
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                            <li><i class="fa fa-star"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><!-- testimonials end -->
+                                </div><!-- wrap-testimonial end-->
+                            </aside>
+                            <aside class="widget products top-rated-products">
+                                <h3 class="widget-title">Featured Products</h3>
+                                <ul class="product-list-widget product">
+                                    <li>
+                                        <a href="#"><img src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt=""></a>
+                                        <div class="product-content-box">
+                                            <div class="star-ratings">
+                                                <ul class="rating">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                </ul>
+                                            </div>
+                                            <a class="product-title" href="product-layout1.html">
+                                                <h2>Rotary Hammer</h2>
+                                            </a>
+                                            <span class="price">
+                                                <span class="product-Price-amount">
+                                                    <span class="product-Price-currencySymbol">$</span>80.00
+                                                </span>
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a href="#"><img src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt=""></a>
+                                        <div class="product-content-box">
+                                            <div class="star-ratings">
+                                                <ul class="rating">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                </ul>
+                                            </div>
+                                            <a class="product-title" href="product-layout1.html">
+                                                <h2>Impact Wrench</h2>
+                                            </a>
+                                            <span class="price">
+                                                <ins><span class="product-Price-amount">
+                                                        <span class="product-Price-currencySymbol">$</span>110.00
+                                                    </span>
+                                                </ins>
+                                                <del><span class="product-Price-amount">
+                                                        <span class="product-Price-currencySymbol">$</span>123.00
+                                                    </span>
+                                                </del>
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a href="#"><img src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt=""></a>
+                                        <div class="product-content-box">
+                                            <div class="star-ratings">
+                                                <ul class="rating">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                </ul>
+                                            </div>
+                                            <a class="product-title" href="product-layout1.html">
+                                                <h2>Tape Measure</h2>
+                                            </a>
+                                            <span class="price">
+                                                <span class="product-Price-amount">
+                                                    <span class="product-Price-currencySymbol">$</span>24.00
+                                                </span>
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a href="#"><img src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt=""></a>
+                                        <div class="product-content-box">
+                                            <div class="star-ratings">
+                                                <ul class="rating">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                    <li><i class="fa fa-star-o"></i></li>
+                                                </ul>
+                                            </div>
+                                            <a class="product-title" href="product-layout1.html">
+                                                <h2>Circular Saw</h2>
+                                            </a>
+                                            <span class="price">
+                                                <ins><span class="product-Price-amount">
+                                                        <span class="product-Price-currencySymbol">$</span>124.00
+                                                    </span>
+                                                </ins>
+                                                <del><span class="product-Price-amount">
+                                                        <span class="product-Price-currencySymbol">$</span>111.00
+                                                    </span>
+                                                </del>
+                                            </span>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </aside>
+                            <aside class="widget widget_media_image banner-image">
+                                <a href="#"><img class="img-fluid" src="https://via.placeholder.com/271x501?text=271x501+Banner" alt="widget-banner"></a>
+                            </aside>
+                            <aside class="widget widget_media_image banner-image">
+                                <a href="#"><img class="img-fluid" src="https://via.placeholder.com/271x393?text=271x393+Banner" alt="widget-banner"></a>
+                            </aside>
+                        </div>
+                        <div class="col-lg-9 content-area">
+                            <div class="products products-fitter">
+                                <div class="ttm-tabs">
+                                    <div class="content-sec-head-style">
+                                        <div class="content-area-sec-title">
+                                            <h5>Our Top Selling Products</h5>
+                                        </div>
+                                        <ul class="tabs text-right">
+                                            <li class="tab active"><a href="#">New Product</a></li>
+                                            <li class="tab"><a href="#">Special</a></li>
+                                            <li class="tab"><a href="#">Onsale</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="content-tab">
+                                        <div class="content-inner">
+                                            <div class="products row">
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Hammer Drill</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>77.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Folding Hex Key Set</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>62.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <div class="onsale">Sale!</div>
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Impact Wrench</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>110.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>123.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Tape Measure</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>24.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Reel Fiberglass Tape</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>40.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="onsale">Sale!</div>
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Circular Saw</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>124.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>111.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Demolition Breaker</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>38.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <div class="onsale">Sale!</div>
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Cordless Drywall Cutter</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>99.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>82.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                            </div>
+                                        </div>
+                                        <!-- content-inner -->
+                                        <div class="content-inner">
+                                            <div class="products row">
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Reel Fiberglass Tape</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>40.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <div class="onsale">Sale!</div>
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Impact Wrench</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>110.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>123.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Demolition Breaker</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>38.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <div class="onsale">Sale!</div>
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Cordless Drywall Cutter</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>99.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>82.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Folding Hex Key Set</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>62.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="onsale">Sale!</div>
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Circular Saw</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>124.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>111.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Impact Driver Kit</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>149.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Tape Measure</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>24.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                            </div>
+                                        </div><!-- content-inner end -->
+                                        <!-- content-inner -->
+                                        <div class="content-inner">
+                                            <div class="products row">
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Folding Hex Key Set</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>62.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <div class="onsale">Sale!</div>
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Impact Wrench</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>110.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>123.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Impact Driver Kit</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>149.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Tape Measure</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>24.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Reel Fiberglass Tape</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>40.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Demolition Breaker</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>38.00
+                                                                </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="product-image-box">
+                                                                <div class="onsale">Sale!</div>
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Cordless Drywall Cutter</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>99.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>82.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                                <!-- product -->
+                                                <div class="product col-md-3 col-sm-6 col-xs-12">
+                                                    <div class="product-box">
+                                                        <!-- product-box-inner -->
+                                                        <div class="product-box-inner">
+                                                            <div class="onsale">Sale!</div>
+                                                            <div class="product-image-box">
+                                                                <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                                <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                            </div>
+                                                            <div class="product-btn-links-wrapper">
+                                                                <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                                </div>
+                                                                <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- product-box-inner end -->
+                                                        <div class="product-content-box">
+                                                            <a class="product-title" href="product-layout1.html">
+                                                                <h2>Circular Saw</h2>
+                                                            </a>
+                                                            <div class="star-ratings">
+                                                                <ul class="rating">
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                    <li><i class="fa fa-star-o"></i></li>
+                                                                </ul>
+                                                            </div>
+                                                            <span class="price">
+                                                                <ins><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>124.00
+                                                                    </span>
+                                                                </ins>
+                                                                <del><span class="product-Price-amount">
+                                                                        <span class="product-Price-currencySymbol">$</span>111.00
+                                                                    </span>
+                                                                </del>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- product end -->
+                                            </div>
+                                        </div><!-- content-inner end -->
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <!-- banner-image -->
+                                        <div class="banner-image mb-30 mt-5">
+                                            <a href="#"><img class="img-fluid" src="https://via.placeholder.com/870x266?text=870x266+Banner" alt=""></a>
+                                        </div><!-- banner-image end -->
+                                    </div>
+                                </div>
+                                <div class="row no-gutters ttm-bgcolor-grey border mb-25">
+                                    <div class="col-lg-4 col-md-4 col-sm-4">
+                                        <!-- featured-icon-box -->
+                                        <div class="featured-icon-box style3 text-center">
+                                            <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <i class="themifyicon ti-truck"></i>
                                             </div>
                                             <div class="featured-content">
                                                 <div class="featured-title">
-                                                    <h5>Free Shipping</h5>
+                                                    <h5>Fast &amp; Free Shopping</h5>
                                                 </div>
                                                 <div class="featured-desc">
-                                                    <p>Sed rutrum ipsum nunc, at ultrices Loream libero consectetur.</p>
+                                                    <p>All Order Over $199</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-12">
+                                    <div class="col-lg-4 col-md-4 col-sm-4">
                                         <!-- featured-icon-box -->
-                                        <div class="featured-icon-box style1 ttm-bgcolor-highlight">
-                                            <div class="featured-icon">
-                                                <div class="ttm-icon ttm-icon_element-color-darkgrey ttm-icon_element-size-md">
-                                                    <i class="themifyicon ti-reload"></i>
-                                                </div>
+                                        <div class="featured-icon-box style3 text-center">
+                                            <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <i class="themifyicon ti-reload"></i>
                                             </div>
                                             <div class="featured-content">
                                                 <div class="featured-title">
                                                     <h5>100% Money Back</h5>
                                                 </div>
                                                 <div class="featured-desc">
-                                                    <p>Sed rutrum ipsum nunc, at ultrices Loream libero consectetur.n</p>
+                                                    <p>30 Days Money Return</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-12">
+                                    <div class="col-lg-4 col-md-4 col-sm-4">
                                         <!-- featured-icon-box -->
-                                        <div class="featured-icon-box style1 ttm-bgcolor-darkgrey">
-                                            <div class="featured-icon">
-                                                <div class="ttm-icon ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                    <i class="themifyicon ti-comments"></i>
-                                                </div>
+                                        <div class="featured-icon-box style3 text-center">
+                                            <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <i class="themifyicon ti-comments"></i>
                                             </div>
                                             <div class="featured-content">
                                                 <div class="featured-title">
                                                     <h5>Support 24/7 Days</h5>
                                                 </div>
                                                 <div class="featured-desc">
-                                                    <p>Sed rutrum ipsum nunc, at ultrices Loream libero consectetur.</p>
+                                                    <p>Hot Line: +123 456 789</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div><!-- row end -->
-                </div>
-            </section>
-            <!-- row-top-section end -->
-
-            <!--banner-box-section-->
-            <section class="banner-box-section clearfix">
-                <div class="container">
-                    <div class="d-md-flex flex-row justify-content-start">
-                        <div class="left-image-group">
-                            <div class="d-sm-flex flex-row justify-content-start">
-                                <!-- banner-image -->
-                                <div class="banner-image pt-20">
-                                    <a href="#"><img class="img-fluid" src="https://via.placeholder.com/366x330?text=366x330+Banner" alt=""></a>
-                                </div><!-- banner-image end -->
-                                <!-- banner-image -->
-                                <div class="banner-image pt-20 pl-20 pr-20">
-                                    <a href="#"><img class="img-fluid" src="https://via.placeholder.com/360x330?text=360x330+Banner" alt=""></a>
-                                </div><!-- banner-image end -->
-                            </div>
-                            <div class="d-flex flex-row justify-content-start">
-                               <!-- banner-image -->
-                                <div class="banner-image pt-20 pr-20 res-767-pr-0">
-                                    <a href="#"><img class="img-fluid" src="https://via.placeholder.com/747x226?text=747x226+Banner" alt=""></a>
-                                </div><!-- banner-image end -->
-                            </div>
-                        </div>
-                        <div class="left-image-single">
-                            <!-- banner-image -->
-                            <div class="banner-image pt-20">
-                                <figure class="ttm-figure">
-                                    <a href="#"><img class="img-fluid" src="https://via.placeholder.com/403x577?text=403x577+Banner" alt=""></a>
-                                </figure>
-                            </div><!-- banner-image end -->
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--banner-box-section end-->
-
-
-            <!-- product-section -->
-            <section class="product-section clearfix">
-                <div class="container">
-                    <!-- row -->
-                    <div class="row">
-                        <div class="col-lg-7 col-md-8 ml-auto mr-auto">
-                            <!-- section title -->
-                            <div class="section-title title-style-center_text style2">
-                                <div class="title-header">
-                                        <h5>how it works</h5>
-                                    <h2 class="title">Top Selling Products</h2>
-                                </div>
-                            </div><!-- section title end -->
-                        </div>
-                    </div><!-- row end -->
-                    <div class="row">
-                        <div class="col-lg-12">
-                             <div class="ttm-tabs tabs-for-products" data-effect="fadeIn">
-                                <ul class="tabs clearfix">
-                                    <li class="tab active"><a href="#">Plus Recents</a></li>
-                                    <li class="tab"><a href="#">Plus Recents</a></li>
-                                    <li class="tab"><a href="#">Plus Recents</a></li>
-                                    <li class="tab"><a href="#">Plus Recents</a></li>
-                                </ul>
-                                <div class="content-tab">
-                                    <!-- content-inner -->
-                                    <div class="content-inner">
-                                        <div class="products row">
-                                            <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
-                                                <div class="product-box">
-                                                    <!-- product-box-inner -->
-                                                    <div class="product-box-inner">
-                                                        <div class="product-image-box">
-                                                            <div class="onsale">Sale!</div>
-                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                                        </div>
-                                                        <div class="product-btn-links-wrapper">
-                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                                            </div>
-                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                                            </div>
-                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- product-box-inner end -->
-                                                    <div class="product-content-box">
-                                                        <a class="product-title" href="product-layout1.html">
-                                                            <h2>Impact Wrench</h2>
-                                                        </a>
-                                                        <div class="star-ratings">
-                                                            <ul class="rating">
-                                                                <li><i class="fa fa-star"></i></li>
-                                                                <li><i class="fa fa-star"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                            </ul>
-                                                        </div>
-                                                        <span class="price">
-                                                            <ins><span class="product-Price-amount">
-                                                                    <span class="product-Price-currencySymbol">$</span>110.00
-                                                                </span>
-                                                            </ins>
-                                                            <del><span class="product-Price-amount">
-                                                                    <span class="product-Price-currencySymbol">$</span>123.00
-                                                                </span>
-                                                            </del>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div><!-- product end -->
-                                            <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
-                                                <div class="product-box">
-                                                    <!-- product-box-inner -->
-                                                    <div class="product-box-inner">
-                                                        <div class="product-image-box">
-                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                                        </div>
-                                                        <div class="product-btn-links-wrapper">
-                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                                            </div>
-                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                                            </div>
-                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- product-box-inner end -->
-                                                    <div class="product-content-box">
-                                                        <a class="product-title" href="product-layout1.html">
-                                                            <h2>Folding Hex Key Set</h2>
-                                                        </a>
-                                                        <div class="star-ratings">
-                                                            <ul class="rating">
-                                                                <li><i class="fa fa-star"></i></li>
-                                                                <li><i class="fa fa-star"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                            </ul>
-                                                        </div>
-                                                        <span class="price">
-                                                            <span class="product-Price-amount">
-                                                                <span class="product-Price-currencySymbol">$</span>62.00
-                                                            </span>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div><!-- product end -->
-                                            <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
-                                                <div class="product-box">
-                                                    <!-- product-box-inner -->
-                                                    <div class="product-box-inner">
-                                                        <div class="onsale">Sale!</div>
-                                                        <div class="product-image-box">
-                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                                        </div>
-                                                        <div class="product-btn-links-wrapper">
-                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                                            </div>
-                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                                            </div>
-                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- product-box-inner end -->
-                                                    <div class="product-content-box">
-                                                        <a class="product-title" href="product-layout1.html">
-                                                            <h2>Circular Saw</h2>
-                                                        </a>
-                                                        <div class="star-ratings">
-                                                            <ul class="rating">
-                                                                <li><i class="fa fa-star"></i></li>
-                                                                <li><i class="fa fa-star"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                            </ul>
-                                                        </div>
-                                                        <span class="price">
-                                                            <ins><span class="product-Price-amount">
-                                                                    <span class="product-Price-currencySymbol">$</span>124.00
-                                                                </span>
-                                                            </ins>
-                                                            <del><span class="product-Price-amount">
-                                                                    <span class="product-Price-currencySymbol">$</span>111.00
-                                                                </span>
-                                                            </del>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div><!-- product end -->
-                                            <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
-                                                <div class="product-box">
-                                                    <!-- product-box-inner -->
-                                                    <div class="product-box-inner">
-                                                        <div class="product-image-box">
-                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                                        </div>
-                                                        <div class="product-btn-links-wrapper">
-                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                                            </div>
-                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                                            </div>
-                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- product-box-inner end -->
-                                                    <div class="product-content-box">
-                                                        <a class="product-title" href="product-layout1.html">
-                                                            <h2>Tape Measure</h2>
-                                                        </a>
-                                                        <div class="star-ratings">
-                                                            <ul class="rating">
-                                                                <li><i class="fa fa-star"></i></li>
-                                                                <li><i class="fa fa-star"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                                <li><i class="fa fa-star-o"></i></li>
-                                                            </ul>
-                                                        </div>
-                                                        <span class="price">
-                                                            <span class="product-Price-amount">
-                                                                <span class="product-Price-currencySymbol">$</span>24.00
-                                                            </span>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div><!-- product end -->
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="content-sec-head-style">
+                                            <div class="content-area-sec-title">
+                                                <h5>Best Sellers</h5>
+                                            </div>
                                         </div>
                                     </div>
-                                    <!-- content-inner -->
-                                    <div class="content-inner">
-                                        <div class="products row">
+                                    <div class="col-lg-12">
+                                        <!-- slick_slider -->
+                                        <div class="pro_slick_slider" data-slick='{"slidesToShow": 4, "slidesToScroll": 4, "arrows":true, "autoplay":true}'>
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
+                                                <div class="product-box">
+                                                    <!-- product-box-inner -->
+                                                    <div class="product-box-inner">
+                                                        <div class="product-image-box">
+                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                        </div>
+                                                        <div class="product-btn-links-wrapper">
+                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- product-box-inner end -->
+                                                    <div class="product-content-box">
+                                                        <a class="product-title" href="product-layout1.html">
+                                                            <h2>Hammer Drill</h2>
+                                                        </a>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="price">
+                                                            <span class="product-Price-amount">
+                                                                <span class="product-Price-currencySymbol">$</span>77.00
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- product end -->
+                                            <!-- product -->
+                                            <div class="product">
+                                                <div class="product-box">
+                                                    <!-- product-box-inner -->
+                                                    <div class="product-box-inner">
+                                                        <div class="product-image-box">
+                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                        </div>
+                                                        <div class="product-btn-links-wrapper">
+                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- product-box-inner end -->
+                                                    <div class="product-content-box">
+                                                        <a class="product-title" href="product-layout1.html">
+                                                            <h2>Rotary Hammer</h2>
+                                                        </a>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="price">
+                                                            <span class="product-Price-amount">
+                                                                <span class="product-Price-currencySymbol">$</span>80.00
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- product end -->
+                                            <!-- product -->
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1153,7 +1996,7 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1198,7 +2041,7 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1229,7 +2072,7 @@
                                                             </ul>
                                                         </div>
                                                         <span class="price">
-                                                        <span class="product-Price-amount">
+                                                            <span class="product-Price-amount">
                                                                 <span class="product-Price-currencySymbol">$</span>38.00
                                                             </span>
                                                         </span>
@@ -1237,7 +2080,7 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1281,13 +2124,8 @@
                                                     </div>
                                                 </div>
                                             </div><!-- product end -->
-                                        </div>
-                                    </div>
-                                    <!-- content-inner -->
-                                    <div class="content-inner">
-                                        <div class="products row">
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1326,7 +2164,7 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1371,7 +2209,7 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1410,7 +2248,7 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1450,11 +2288,59 @@
                                             </div><!-- product end -->
                                         </div>
                                     </div>
-                                    <!-- content-inner -->
-                                    <div class="content-inner">
-                                        <div class="products row">
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="content-sec-head-style">
+                                            <div class="content-area-sec-title">
+                                                <h5>Specials</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <!-- slick_slider -->
+                                        <div class="pro_slick_slider" data-slick='{"slidesToShow": 4, "slidesToScroll": 4, "arrows":true, "autoplay":true}'>
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
+                                                <div class="product-box">
+                                                    <!-- product-box-inner -->
+                                                    <div class="product-box-inner">
+                                                        <div class="product-image-box">
+                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                        </div>
+                                                        <div class="product-btn-links-wrapper">
+                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- product-box-inner end -->
+                                                    <div class="product-content-box">
+                                                        <a class="product-title" href="product-layout1.html">
+                                                            <h2>Rotary Hammer</h2>
+                                                        </a>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="price">
+                                                            <span class="product-Price-amount">
+                                                                <span class="product-Price-currencySymbol">$</span>80.00
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- product end -->
+                                            <!-- product -->
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1493,7 +2379,91 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
+                                                <div class="product-box">
+                                                    <!-- product-box-inner -->
+                                                    <div class="product-box-inner">
+                                                        <div class="product-image-box">
+                                                            <div class="onsale">Sale!</div>
+                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                        </div>
+                                                        <div class="product-btn-links-wrapper">
+                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- product-box-inner end -->
+                                                    <div class="product-content-box">
+                                                        <a class="product-title" href="product-layout1.html">
+                                                            <h2>Impact Wrench</h2>
+                                                        </a>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="price">
+                                                            <ins><span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>110.00
+                                                                </span>
+                                                            </ins>
+                                                            <del><span class="product-Price-amount">
+                                                                    <span class="product-Price-currencySymbol">$</span>123.00
+                                                                </span>
+                                                            </del>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- product end -->
+                                            <!-- product -->
+                                            <div class="product">
+                                                <div class="product-box">
+                                                    <!-- product-box-inner -->
+                                                    <div class="product-box-inner">
+                                                        <div class="product-image-box">
+                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                        </div>
+                                                        <div class="product-btn-links-wrapper">
+                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- product-box-inner end -->
+                                                    <div class="product-content-box">
+                                                        <a class="product-title" href="product-layout1.html">
+                                                            <h2>Hammer Drill</h2>
+                                                        </a>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="price">
+                                                            <span class="product-Price-amount">
+                                                                <span class="product-Price-currencySymbol">$</span>77.00
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- product end -->
+                                            <!-- product -->
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1524,7 +2494,7 @@
                                                             </ul>
                                                         </div>
                                                         <span class="price">
-                                                        <span class="product-Price-amount">
+                                                            <span class="product-Price-amount">
                                                                 <span class="product-Price-currencySymbol">$</span>38.00
                                                             </span>
                                                         </span>
@@ -1532,7 +2502,46 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
+                                                <div class="product-box">
+                                                    <!-- product-box-inner -->
+                                                    <div class="product-box-inner">
+                                                        <div class="product-image-box">
+                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                        </div>
+                                                        <div class="product-btn-links-wrapper">
+                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- product-box-inner end -->
+                                                    <div class="product-content-box">
+                                                        <a class="product-title" href="product-layout1.html">
+                                                            <h2>Impact Driver Kit</h2>
+                                                        </a>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="price">
+                                                            <span class="product-Price-amount">
+                                                                <span class="product-Price-currencySymbol">$</span>149.00
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- product end -->
+                                            <!-- product -->
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1577,7 +2586,46 @@
                                                 </div>
                                             </div><!-- product end -->
                                             <!-- product -->
-                                            <div class="product col-md-3 col-sm-6 col-xs-12">
+                                            <div class="product">
+                                                <div class="product-box">
+                                                    <!-- product-box-inner -->
+                                                    <div class="product-box-inner">
+                                                        <div class="product-image-box">
+                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                        </div>
+                                                        <div class="product-btn-links-wrapper">
+                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- product-box-inner end -->
+                                                    <div class="product-content-box">
+                                                        <a class="product-title" href="product-layout1.html">
+                                                            <h2>Folding Hex Key Set</h2>
+                                                        </a>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="price">
+                                                            <span class="product-Price-amount">
+                                                                <span class="product-Price-currencySymbol">$</span>62.00
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- product end -->
+                                            <!-- product -->
+                                            <div class="product">
                                                 <div class="product-box">
                                                     <!-- product-box-inner -->
                                                     <div class="product-box-inner">
@@ -1621,737 +2669,218 @@
                                                     </div>
                                                 </div>
                                             </div><!-- product end -->
+                                            <!-- product -->
+                                            <div class="product">
+                                                <div class="product-box">
+                                                    <!-- product-box-inner -->
+                                                    <div class="product-box-inner">
+                                                        <div class="product-image-box">
+                                                            <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
+                                                            <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
+                                                        </div>
+                                                        <div class="product-btn-links-wrapper">
+                                                            <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
+                                                            </div>
+                                                            <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- product-box-inner end -->
+                                                    <div class="product-content-box">
+                                                        <a class="product-title" href="product-layout1.html">
+                                                            <h2>Tape Measure</h2>
+                                                        </a>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                                <li><i class="fa fa-star-o"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                        <span class="price">
+                                                            <span class="product-Price-amount">
+                                                                <span class="product-Price-currencySymbol">$</span>24.00
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- product end -->
                                         </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <!-- banner-image -->
+                                        <div class="banner-image mb-30">
+                                            <a href="#"><img class="img-fluid" src="https://via.placeholder.com/423x231?text=423x231+Banner" alt=""></a>
+                                        </div><!-- banner-image end -->
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <!-- banner-image -->
+                                        <div class="banner-image mb-30">
+                                            <a href="#"><img class="img-fluid" src="https://via.placeholder.com/423x231?text=423x231+Banner" alt=""></a>
+                                        </div><!-- banner-image end -->
+                                    </div>
+                                </div>
+                                <div class="row mb-35 res-991-mb-15">
+                                    <div class="col-lg-12">
+                                        <div class="content-sec-head-style">
+                                            <div class="content-area-sec-title">
+                                                <h5>Our Latest News & Events</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <!-- slick_slider -->
+                                        <div class="slick_slider" data-slick='{"slidesToShow": 3, "slidesToScroll": 3, "arrows":false, "autoplay":true}'>
+                                            <!-- featured-imagebox-post -->
+                                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
+                                                <div class="ttm-post-featured-outer">
+                                                    <div class="ttm-post-thumbnail featured-thumbnail">
+                                                        <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
+                                                        <div class="ttm-box-post-date">
+                                                            <span class="ttm-entry-date">
+                                                                <time class="entry-date" datetime="2019-07-28T07:07:55+00:00">28<span class="entry-month">Jul</span></time>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="featured-content featured-content-post">
+                                                    <div class="post-meta">
+                                                        <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
+                                                        <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
+                                                    </div>
+                                                    <div class="post-title featured-title">
+                                                        <h5><a href="blog-single.html">Danger of Having High Water Pressure</a></h5>
+                                                    </div>
+                                                </div>
+                                            </div><!-- featured-imagebox-post end -->
+                                            <!-- featured-imagebox-post -->
+                                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
+                                                <div class="ttm-post-featured-outer">
+                                                    <div class="ttm-post-thumbnail featured-thumbnail">
+                                                        <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
+                                                        <div class="ttm-box-post-date">
+                                                            <span class="ttm-entry-date">
+                                                                <time class="entry-date" datetime="2019-08-10T07:07:55+00:00">10<span class="entry-month">Aug</span></time>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="featured-content featured-content-post">
+                                                    <div class="post-meta">
+                                                        <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
+                                                        <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
+                                                    </div>
+                                                    <div class="post-title featured-title">
+                                                        <h5><a href="blog-single.html">The Most Common Painting Mistakes</a></h5>
+                                                    </div>
+                                                </div>
+                                            </div><!-- featured-imagebox-post end -->
+                                            <!-- featured-imagebox-post -->
+                                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
+                                                <div class="ttm-post-featured-outer">
+                                                    <div class="ttm-post-thumbnail featured-thumbnail">
+                                                        <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
+                                                        <div class="ttm-box-post-date">
+                                                            <span class="ttm-entry-date">
+                                                                <time class="entry-date" datetime="2019-08-21T07:07:55+00:00">21<span class="entry-month">Aug</span></time>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="featured-content featured-content-post">
+                                                    <div class="post-meta">
+                                                        <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
+                                                        <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
+                                                    </div>
+                                                    <div class="post-title featured-title">
+                                                        <h5><a href="blog-single.html">Choosing Roofing Material for Home</a></h5>
+                                                    </div>
+                                                </div>
+                                            </div><!-- featured-imagebox-post end -->
+                                            <!-- featured-imagebox-post -->
+                                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
+                                                <div class="ttm-post-featured-outer">
+                                                    <div class="ttm-post-thumbnail featured-thumbnail">
+                                                        <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
+                                                        <div class="ttm-box-post-date">
+                                                            <span class="ttm-entry-date">
+                                                                <time class="entry-date" datetime="2019-08-26T07:07:55+00:00">26<span class="entry-month">Aug</span></time>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="featured-content featured-content-post">
+                                                    <div class="post-meta">
+                                                        <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
+                                                        <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
+                                                    </div>
+                                                    <div class="post-title featured-title">
+                                                        <h5><a href="blog-single.html">Equipping Researchers in the Developing.</a></h5>
+                                                    </div>
+                                                </div>
+                                            </div><!-- featured-imagebox-post end-->
+                                            <!-- featured-imagebox-post -->
+                                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
+                                                <div class="ttm-post-featured-outer">
+                                                    <div class="ttm-post-thumbnail featured-thumbnail">
+                                                        <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
+                                                        <div class="ttm-box-post-date">
+                                                            <span class="ttm-entry-date">
+                                                                <time class="entry-date" datetime="2019-09-06T07:07:55+00:00">06<span class="entry-month">Sep</span></time>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="featured-content featured-content-post">
+                                                    <div class="post-meta">
+                                                        <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
+                                                        <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
+                                                    </div>
+                                                    <div class="post-title featured-title">
+                                                        <h5><a href="blog-single.html">Simple Steps for Replacing old Tiling</a></h5>
+                                                    </div>
+                                                </div>
+                                            </div><!-- featured-imagebox-post end-->
+                                            <!-- featured-imagebox-post -->
+                                            <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
+                                                <div class="ttm-post-featured-outer">
+                                                    <div class="ttm-post-thumbnail featured-thumbnail">
+                                                        <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
+                                                        <div class="ttm-box-post-date">
+                                                            <span class="ttm-entry-date">
+                                                                <time class="entry-date" datetime="2019-09-12T07:07:55+00:00">12<span class="entry-month">Sep</span></time>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="featured-content featured-content-post">
+                                                    <div class="post-meta">
+                                                        <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
+                                                        <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
+                                                    </div>
+                                                    <div class="post-title featured-title">
+                                                        <h5><a href="blog-single.html">Got a Leaking? Hire an experienced Plumber</a></h5>
+                                                    </div>
+                                                </div>
+                                            </div><!-- featured-imagebox-post end-->
+                                        </div><!-- slick_slider end -->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </section><!-- product-section end-->
-
-            <!-- testimonial-section -->
-            <section class="testimonial-section bg-img1 ttm-bgcolor-darkgrey clearfix">
-                <div class="row-wrapper-bg-layer ttm-bg-layer"></div>
-                <div class="container">
-                    <!-- row -->
-                    <div class="row">
-                        <div class="col-md-7 ml-auto mr-auto">
-                            <!-- section title -->
-                            <div class="section-title title-style-center_text style2">
-                                <div class="title-header">
-                                    <h5>TESTIMONIAL</h5>
-                                    <h2 class="title">What Our Customers Saying</h2>
-                                </div>
-                            </div><!-- section title end -->
-                        </div>
-                    </div><!-- row end -->
-                    <!-- row -->
-                    <div class="row">
-                        <div class="col-lg-12 col-sm-12 col-xs-12">
-                            <!-- slick_slider -->
-                            <div class="slick_slider" data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "arrows":false, "autoplay":true, "centerMode":true, "centerPadding":0, "infinite":true, "initialSlide":2}'>
-                                <!-- testimonials -->
-                                <div class="testimonials ttm-testimonial-box-view-style1">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <i class="ti ti-quote-left"></i>
-                                        </div>
-                                        <blockquote>Lorem Ipsum is simply dummy text of tled it te spec. It has survived not only five centuries,</blockquote>
-                                        <div class="testimonial-caption">
-                                            <h5>Leaax May</h5>
-                                            <label>CEO At Founder</label>
-                                            <div class="star-ratings">
-                                                <ul class="rating">
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                                <!-- testimonials -->
-                                <div class="testimonials ttm-testimonial-box-view-style1">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <i class="ti ti-quote-left"></i>
-                                        </div>
-                                        <blockquote>Lorem Ipsum is simply dummy text of tled it te spec. It has survived not only five centuries,</blockquote>
-                                        <div class="testimonial-caption">
-                                            <h5>Alan Sears</h5>
-                                            <label>CEO At Founder</label>
-                                            <div class="star-ratings">
-                                                <ul class="rating">
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                                <!-- testimonials -->
-                                <div class="testimonials ttm-testimonial-box-view-style1">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <i class="ti ti-quote-left"></i>
-                                        </div>
-                                        <blockquote>Lorem Ipsum is simply dummy text of tled it te spec. It has survived not only five centuries,</blockquote>
-                                        <div class="testimonial-caption">
-                                            <h5>Alex Ritchell</h5>
-                                            <label>CEO At Founder</label>
-                                            <div class="star-ratings">
-                                                <ul class="rating">
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                                <!-- testimonials -->
-                                <div class="testimonials ttm-testimonial-box-view-style1">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <i class="ti ti-quote-left"></i>
-                                        </div>
-                                        <blockquote>Lorem Ipsum is simply dummy text of tled it te spec. It has survived not only five centuries,</blockquote>
-                                        <div class="testimonial-caption">
-                                            <h5>Leaax May</h5>
-                                            <label>CEO At Founder</label>
-                                            <div class="star-ratings">
-                                                <ul class="rating">
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                                <!-- testimonials -->
-                                <div class="testimonials ttm-testimonial-box-view-style1">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <i class="ti ti-quote-left"></i>
-                                        </div>
-                                        <blockquote>Lorem Ipsum is simply dummy text of tled it te spec. It has survived not only five centuries,</blockquote>
-                                        <div class="testimonial-caption">
-                                            <h5>Alan Sears</h5>
-                                            <label>CEO At Founder</label>
-                                            <div class="star-ratings">
-                                                <ul class="rating">
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                                <!-- testimonials -->
-                                <div class="testimonials ttm-testimonial-box-view-style1">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="https://via.placeholder.com/98x98.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <i class="ti ti-quote-left"></i>
-                                        </div>
-                                        <blockquote>Lorem Ipsum is simply dummy text of tled it te spec. It has survived not only five centuries,</blockquote>
-                                        <div class="testimonial-caption">
-                                            <h5>Alex Ritchell</h5>
-                                            <label>CEO At Founder</label>
-                                            <div class="star-ratings">
-                                                <ul class="rating">
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                    <li><i class="fa fa-star-o"></i></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                            </div><!-- testimonial-slide end-->
-                        </div>
-                    </div><!-- row end-->
-                </div>
-            </section>
-            <!-- testimonial-section end-->
-
-            <!-- featured-product-section -->
-            <section class="featured-product-section clearfix">
-                <div class="container">
-                    <!-- row -->
-                    <div class="row">
-                        <div class="col-lg-7 col-md-12 ml-auto mr-auto">
-                            <!-- section-title -->
-                            <div class="section-title title-style-center_text style2">
-                                <div class="title-header">
-                                    <h5>how it works</h5>
-                                    <h2 class="title">Top Selling Products</h2>
-                                </div>
-                            </div><!-- section-title end -->
-                        </div>
-                    </div><!-- row end -->
-                    <div class="products row">
-                        <!-- product -->
-                        <div class="product col-md-3 col-sm-6 col-xs-12">
-                            <div class="product-box">
-                                <!-- product-box-inner -->
-                                <div class="product-box-inner">
-                                    <div class="product-image-box">
-                                        <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                        <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                    </div>
-                                    <div class="product-btn-links-wrapper">
-                                        <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div><!-- product-box-inner end -->
-                                <div class="product-content-box">
-                                    <a class="product-title" href="product-layout1.html">
-                                        <h2>Reel Fiberglass Tape</h2>
-                                    </a>
-                                    <div class="star-ratings">
-                                        <ul class="rating">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                        </ul>
-                                    </div>
-                                    <span class="price">
-                                        <span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>40.00
-                                        </span>
-                                    </span>
-                                </div>
-                            </div>
-                        </div><!-- product end -->
-                        <!-- product -->
-                        <div class="product col-md-3 col-sm-6 col-xs-12">
-                            <div class="product-box">
-                                <!-- product-box-inner -->
-                                <div class="product-box-inner">
-                                    <div class="product-image-box">
-                                        <div class="onsale">Sale!</div>
-                                        <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                        <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                    </div>
-                                    <div class="product-btn-links-wrapper">
-                                        <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div><!-- product-box-inner end -->
-                                <div class="product-content-box">
-                                    <a class="product-title" href="product-layout1.html">
-                                        <h2>Impact Wrench</h2>
-                                    </a>
-                                    <div class="star-ratings">
-                                        <ul class="rating">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                        </ul>
-                                    </div>
-                                    <span class="price">
-                                        <ins><span class="product-Price-amount">
-                                                <span class="product-Price-currencySymbol">$</span>110.00
-                                            </span>
-                                        </ins>
-                                        <del><span class="product-Price-amount">
-                                                <span class="product-Price-currencySymbol">$</span>123.00
-                                            </span>
-                                        </del>
-                                    </span>
-                                </div>
-                            </div>
-                        </div><!-- product end -->
-                        <!-- product -->
-                        <div class="product col-md-3 col-sm-6 col-xs-12">
-                            <div class="product-box">
-                                <!-- product-box-inner -->
-                                <div class="product-box-inner">
-                                    <div class="product-image-box">
-                                        <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                        <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                    </div>
-                                    <div class="product-btn-links-wrapper">
-                                        <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div><!-- product-box-inner end -->
-                                <div class="product-content-box">
-                                    <a class="product-title" href="product-layout1.html">
-                                        <h2>Demolition Breaker</h2>
-                                    </a>
-                                    <div class="star-ratings">
-                                        <ul class="rating">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                        </ul>
-                                    </div>
-                                    <span class="price">
-                                    <span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>38.00
-                                        </span>
-                                    </span>
-                                </div>
-                            </div>
-                        </div><!-- product end -->
-                        <!-- product -->
-                        <div class="product col-md-3 col-sm-6 col-xs-12">
-                            <div class="product-box">
-                                <!-- product-box-inner -->
-                                <div class="product-box-inner">
-                                    <div class="product-image-box">
-                                        <div class="onsale">Sale!</div>
-                                        <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                        <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                    </div>
-                                    <div class="product-btn-links-wrapper">
-                                        <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div><!-- product-box-inner end -->
-                                <div class="product-content-box">
-                                    <a class="product-title" href="product-layout1.html">
-                                        <h2>Cordless Drywall Cutter</h2>
-                                    </a>
-                                    <div class="star-ratings">
-                                        <ul class="rating">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                        </ul>
-                                    </div>
-                                    <span class="price">
-                                        <ins><span class="product-Price-amount">
-                                                <span class="product-Price-currencySymbol">$</span>99.00
-                                            </span>
-                                        </ins>
-                                        <del><span class="product-Price-amount">
-                                                <span class="product-Price-currencySymbol">$</span>82.00
-                                            </span>
-                                        </del>
-                                    </span>
-                                </div>
-                            </div>
-                        </div><!-- product end -->
-                        <!-- product -->
-                        <div class="product col-md-3 col-sm-6 col-xs-12">
-                            <div class="product-box">
-                                <!-- product-box-inner -->
-                                <div class="product-box-inner">
-                                    <div class="product-image-box">
-                                        <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                        <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                    </div>
-                                    <div class="product-btn-links-wrapper">
-                                        <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div><!-- product-box-inner end -->
-                                <div class="product-content-box">
-                                    <a class="product-title" href="product-layout1.html">
-                                        <h2>Folding Hex Key Set</h2>
-                                    </a>
-                                    <div class="star-ratings">
-                                        <ul class="rating">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                        </ul>
-                                    </div>
-                                    <span class="price">
-                                        <span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>62.00
-                                        </span>
-                                    </span>
-                                </div>
-                            </div>
-                        </div><!-- product end -->
-                        <!-- product -->
-                        <div class="product col-md-3 col-sm-6 col-xs-12">
-                            <div class="product-box">
-                                <!-- product-box-inner -->
-                                <div class="product-box-inner">
-                                    <div class="onsale">Sale!</div>
-                                    <div class="product-image-box">
-                                        <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                        <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                    </div>
-                                    <div class="product-btn-links-wrapper">
-                                        <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div><!-- product-box-inner end -->
-                                <div class="product-content-box">
-                                    <a class="product-title" href="product-layout1.html">
-                                        <h2>Circular Saw</h2>
-                                    </a>
-                                    <div class="star-ratings">
-                                        <ul class="rating">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                        </ul>
-                                    </div>
-                                    <span class="price">
-                                        <ins><span class="product-Price-amount">
-                                                <span class="product-Price-currencySymbol">$</span>124.00
-                                            </span>
-                                        </ins>
-                                        <del><span class="product-Price-amount">
-                                                <span class="product-Price-currencySymbol">$</span>111.00
-                                            </span>
-                                        </del>
-                                    </span>
-                                </div>
-                            </div>
-                        </div><!-- product end -->
-                        <!-- product -->
-                        <div class="product col-md-3 col-sm-6 col-xs-12">
-                            <div class="product-box">
-                                <!-- product-box-inner -->
-                                <div class="product-box-inner">
-                                    <div class="product-image-box">
-                                        <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                        <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                    </div>
-                                    <div class="product-btn-links-wrapper">
-                                        <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div><!-- product-box-inner end -->
-                                <div class="product-content-box">
-                                    <a class="product-title" href="product-layout1.html">
-                                        <h2>Impact Driver Kit</h2>
-                                    </a>
-                                    <div class="star-ratings">
-                                        <ul class="rating">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                        </ul>
-                                    </div>
-                                    <span class="price">
-                                        <span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>149.00
-                                        </span>
-                                    </span>
-                                </div>
-                            </div>
-                        </div><!-- product end -->
-                        <!-- product -->
-                        <div class="product col-md-3 col-sm-6 col-xs-12">
-                            <div class="product-box">
-                                <!-- product-box-inner -->
-                                <div class="product-box-inner">
-                                    <div class="product-image-box">
-                                        <img class="img-fluid pro-image-front" src="https://via.placeholder.com/271x300?text=271x300+Pro+view1" alt="">
-                                        <img class="img-fluid pro-image-back" src="https://via.placeholder.com/271x300?text=271x300+Pro+view2" alt="">
-                                    </div>
-                                    <div class="product-btn-links-wrapper">
-                                        <div class="product-btn"><a href="#" class="add-to-cart-btn tooltip-top" data-tooltip="Add To Cart"><i class="ti ti-shopping-cart"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="quick-view-btn js-show-modal1 tooltip-top" data-tooltip="Quick View"><i class="ti ti-search"></i></a>
-                                        </div>
-                                        <div class="product-btn"><a href="#" class="wishlist-btn tooltip-top" data-tooltip="Add To Wishlist"><i class="ti ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div><!-- product-box-inner end -->
-                                <div class="product-content-box">
-                                    <a class="product-title" href="product-layout1.html">
-                                        <h2>Tape Measure</h2>
-                                    </a>
-                                    <div class="star-ratings">
-                                        <ul class="rating">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                            <li><i class="fa fa-star-o"></i></li>
-                                        </ul>
-                                    </div>
-                                    <span class="price">
-                                        <span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>24.00
-                                        </span>
-                                    </span>
-                                </div>
-                            </div>
-                        </div><!-- product end -->
-                    </div>
-                </div>
-            </section>
-            <!-- featured-product-section end -->
-
-            <!-- banner-section -->
-            <section class="banner-section clearfix">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <!-- banner-image -->
-                            <div class="banner-image">
-                                <figure class="ttm-figure">
-                                    <a href="#"><img class="img-fluid" src="https://via.placeholder.com/1170x210?text=1170x210+Banner" alt=""></a>
-                                </figure>
-                            </div><!-- banner-image end -->
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- banner-section end -->
-
-            <!-- blog-section -->
-            <section class="blog-title-section bg-img3 clearfix">
-                <div class="container">
-                    <!-- row -->
-                    <div class="row">
-                        <div class="col-md-7 ml-auto mr-auto">
-                            <!-- section-title -->
-                            <div class="section-title title-style-center_text style2">
-                                <div class="title-header">
-                                    <h5>OUR BLOG</h5>
-                                    <h2 class="title">Our Latest News</h2>
-                                </div>
-                            </div><!-- section-title end -->
                         </div>
                     </div><!-- row end -->
                 </div>
-            </section>
+            </div>
+            <!-- sidebar end -->
 
-            <section class="blog-section clearfix">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <!-- slick_slider -->
-                            <div class="slick_slider" data-slick='{"slidesToShow": 3, "slidesToScroll": 3, "arrows":false, "autoplay":true}'>
-                                <!-- featured-imagebox-post -->
-                                <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
-                                    <div class="ttm-post-featured-outer">
-                                        <div class="ttm-post-thumbnail featured-thumbnail">
-                                            <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
-                                            <div class="ttm-box-post-date">
-                                                <span class="ttm-entry-date">
-                                                    <time class="entry-date" datetime="2019-07-28T07:07:55+00:00">28<span class="entry-month">Jul</span></time>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="featured-content featured-content-post">
-                                        <div class="post-meta">
-                                            <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
-                                            <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
-                                        </div>
-                                        <div class="post-title featured-title">
-                                            <h5><a href="blog-single.html">Danger of Having High Water Pressure</a></h5>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-imagebox-post end -->
-                                <!-- featured-imagebox-post -->
-                                <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
-                                    <div class="ttm-post-featured-outer">
-                                        <div class="ttm-post-thumbnail featured-thumbnail">
-                                            <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
-                                            <div class="ttm-box-post-date">
-                                                <span class="ttm-entry-date">
-                                                    <time class="entry-date" datetime="2019-08-10T07:07:55+00:00">10<span class="entry-month">Aug</span></time>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="featured-content featured-content-post">
-                                        <div class="post-meta">
-                                            <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
-                                            <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
-                                        </div>
-                                        <div class="post-title featured-title">
-                                            <h5><a href="blog-single.html">The Most Common Painting Mistakes</a></h5>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-imagebox-post end -->
-                                <!-- featured-imagebox-post -->
-                                <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
-                                    <div class="ttm-post-featured-outer">
-                                        <div class="ttm-post-thumbnail featured-thumbnail">
-                                            <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
-                                            <div class="ttm-box-post-date">
-                                                <span class="ttm-entry-date">
-                                                    <time class="entry-date" datetime="2019-08-21T07:07:55+00:00">21<span class="entry-month">Aug</span></time>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="featured-content featured-content-post">
-                                        <div class="post-meta">
-                                            <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
-                                            <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
-                                        </div>
-                                        <div class="post-title featured-title">
-                                            <h5><a href="blog-single.html">Choosing Roofing Material for Home</a></h5>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-imagebox-post end -->
-                                <!-- featured-imagebox-post -->
-                                <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
-                                    <div class="ttm-post-featured-outer">
-                                        <div class="ttm-post-thumbnail featured-thumbnail">
-                                            <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
-                                            <div class="ttm-box-post-date">
-                                                <span class="ttm-entry-date">
-                                                    <time class="entry-date" datetime="2019-08-26T07:07:55+00:00">26<span class="entry-month">Aug</span></time>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="featured-content featured-content-post">
-                                        <div class="post-meta">
-                                            <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
-                                            <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
-                                        </div>
-                                        <div class="post-title featured-title">
-                                            <h5><a href="blog-single.html">Equipping Researchers in the Developing.</a></h5>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-imagebox-post end-->
-                                <!-- featured-imagebox-post -->
-                                <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
-                                    <div class="ttm-post-featured-outer">
-                                        <div class="ttm-post-thumbnail featured-thumbnail">
-                                            <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
-                                            <div class="ttm-box-post-date">
-                                                <span class="ttm-entry-date">
-                                                    <time class="entry-date" datetime="2019-09-06T07:07:55+00:00">06<span class="entry-month">Sep</span></time>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="featured-content featured-content-post">
-                                        <div class="post-meta">
-                                            <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
-                                            <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
-                                        </div>
-                                        <div class="post-title featured-title">
-                                            <h5><a href="blog-single.html">Simple Steps for Replacing old Tiling</a></h5>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-imagebox-post end-->
-                                <!-- featured-imagebox-post -->
-                                <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image">
-                                    <div class="ttm-post-featured-outer">
-                                        <div class="ttm-post-thumbnail featured-thumbnail">
-                                            <img class="img-fluid" src="http://via.placeholder.com/800x570.jpg" alt="">
-                                            <div class="ttm-box-post-date">
-                                                <span class="ttm-entry-date">
-                                                    <time class="entry-date" datetime="2019-09-12T07:07:55+00:00">12<span class="entry-month">Sep</span></time>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="featured-content featured-content-post">
-                                        <div class="post-meta">
-                                            <span class="ttm-meta-line byline"><i class="fa fa-user"></i>Admin</span>
-                                            <span class="ttm-meta-line tag-link"><i class="fa fa-tag"></i>Child Education</span>
-                                        </div>
-                                        <div class="post-title featured-title">
-                                            <h5><a href="blog-single.html">Got a Leaking? Hire an experienced Plumber</a></h5>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-imagebox-post end-->
-                            </div><!-- slick_slider end -->
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- multi-section end -->
+        </div>
+        <!--site-main end-->
 
-        </div><!--site-main end-->
 
         <!--footer start-->
         <footer class="footer widget-footer ttm-bg ttm-bgimage-yes ttm-bgcolor-darkgrey ttm-textcolor-white clearfix">
@@ -2445,10 +2974,11 @@
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_nav_menu clearfix">
-                               <h3 class="widget-title">Our Company</h3>
-                               <ul class="menu-footer-quick-links">
+                                <h3 class="widget-title">Our Company</h3>
+                                <ul class="menu-footer-quick-links">
                                     <li><a href="#">Delivery</a>
-                                    </li><li><a href="#">Legal Notice</a></li>
+                                    </li>
+                                    <li><a href="#">Legal Notice</a></li>
                                     <li><a href="#">About Us</a></li>
                                     <li><a href="#">Secure Payments</a></li>
                                     <li><a href="#">Stores</a></li>
@@ -2457,8 +2987,8 @@
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_nav_menu clearfix">
-                               <h3 class="widget-title">Products</h3>
-                               <ul class="menu-footer-quick-links">
+                                <h3 class="widget-title">Products</h3>
+                                <ul class="menu-footer-quick-links">
                                     <li><a href="#">Price Drops</a></li>
                                     <li><a href="#">New Products</a></li>
                                     <li><a href="#">Best Sales</a></li>
@@ -2489,7 +3019,7 @@
                             <span>Copyright © 2019 Fixfellow Theme by <a href="https://themetechmount.com/">ThemetechMount</a></span>
                         </div>
                         <div class="col-md-12 col-lg-6 ttm-footer2-right">
-                           <div class="supported_card-block">
+                            <div class="supported_card-block">
                                 <ul>
                                     <li><img src="images/supported_card/card-1.png" alt="maestro"></li>
                                     <li><img src="images/supported_card/card-2.png" alt="paypal"></li>
@@ -2506,6 +3036,7 @@
         </footer>
         <!--footer end-->
 
+
         <!--back-to-top start-->
         <a id="totop" href="#top">
             <i class="fa fa-angle-up"></i>
@@ -2521,137 +3052,137 @@
                     </button>
                     <div class="row ttm-single-product-details ttm-bgcolor-white">
                         <div class="col-lg-6 col-md-6 col-sm-12 ml-auto mr-auto">
-                        <div class="product-gallery easyzoom-product-gallery">
-                            <div class="product-look-views left">
-                                <div class="mt-35 mb-35">
-                                    <ul class="thumbnails easyzoom-gallery-slider" data-slick='{"slidesToShow": 4, "slidesToScroll": 1, "arrows":true, "infinite":true, "vertical":true}'>
-                                        <li>
-                                            <a href="https://via.placeholder.com/768x1035?text=pro-view+01.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+01.jpg">
+                            <div class="product-gallery easyzoom-product-gallery">
+                                <div class="product-look-views left">
+                                    <div class="mt-35 mb-35">
+                                        <ul class="thumbnails easyzoom-gallery-slider" data-slick='{"slidesToShow": 4, "slidesToScroll": 1, "arrows":true, "infinite":true, "vertical":true}'>
+                                            <li>
+                                                <a href="https://via.placeholder.com/768x1035?text=pro-view+01.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+01.jpg">
+                                                    <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+01.jpg" alt="" />
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://via.placeholder.com/768x1035?text=pro-view+02.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+02.jpg">
+                                                    <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+02.jpg" alt="" />
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://via.placeholder.com/768x1035?text=pro-view+03.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+03.jpg">
+                                                    <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+03.jpg" alt="" />
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://via.placeholder.com/768x1035?text=pro-view+04.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+04.jpg">
+                                                    <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+04.jpg" alt="" />
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://via.placeholder.com/768x1035?text=pro-view+05.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+05.jpg">
+                                                    <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+05.jpg" alt="" />
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-look-preview-plus right">
+                                    <div class="pl-35 res-767-pl-15">
+                                        <div class="easyzoom easyzoom-model easyzoom--overlay easyzoom--with-thumbnails">
+                                            <a href="https://via.placeholder.com/768x1035?text=pro-view+01.jpg">
                                                 <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+01.jpg" alt="" />
                                             </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://via.placeholder.com/768x1035?text=pro-view+02.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+02.jpg">
-                                                <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+02.jpg" alt="" />
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://via.placeholder.com/768x1035?text=pro-view+03.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+03.jpg">
-                                                <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+03.jpg" alt="" />
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://via.placeholder.com/768x1035?text=pro-view+04.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+04.jpg">
-                                                <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+04.jpg" alt="" />
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://via.placeholder.com/768x1035?text=pro-view+05.jpg" data-standard="https://via.placeholder.com/768x1035?text=pro-view+05.jpg">
-                                                <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+05.jpg" alt="" />
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="product-look-preview-plus right">
-                                <div class="pl-35 res-767-pl-15">
-                                    <div class="easyzoom easyzoom-model easyzoom--overlay easyzoom--with-thumbnails">
-                                        <a href="https://via.placeholder.com/768x1035?text=pro-view+01.jpg">
-                                            <img class="img-fluid" src="https://via.placeholder.com/768x1035?text=pro-view+01.jpg" alt="" />
-                                        </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        </div>
                         <div class="col-lg-6">
-                        <div class="summary entry-summary pl-30 res-991-pl-0 res-991-pt-40">
-                            <h2 class="product_title entry-title">DEWALT 4-Piece T-Shank Jig Saw Blade Case</h2>
-                            <div class="share-icons social-links">
-                                <span>Share :</span>
-                                <a href="#"><i class="ti ti-facebook"></i></a>
-                                <a href="#"><i class="ti ti-twitter-alt"></i></a>
-                                <a href="#"><i class="ti ti-google"></i></a>
-                                <a href="#"><i class="ti ti-linkedin"></i></a>
-                            </div>
-                            <div class="comments-notes clearfix">
-                                &nbsp;&nbsp;<a href="javascript:void(0)" class="review-link" rel="nofollow">(No review)</a>
-                                &nbsp;&nbsp;<a href="javascript:void(0)" class="review-link" rel="nofollow">Write to Review</a>
-                                <div class="product-rating clearfix">
-                                    <ul class="star-rating clearfix">
-                                        <li><i class="fa fa-star-o"></i></li>
-                                        <li><i class="fa fa-star-o"></i></li>
-                                        <li><i class="fa fa-star-o"></i></li>
-                                        <li><i class="fa fa-star-o"></i></li>
-                                        <li><i class="fa fa-star-o"></i></li>
+                            <div class="summary entry-summary pl-30 res-991-pl-0 res-991-pt-40">
+                                <h2 class="product_title entry-title">DEWALT 4-Piece T-Shank Jig Saw Blade Case</h2>
+                                <div class="share-icons social-links">
+                                    <span>Share :</span>
+                                    <a href="#"><i class="ti ti-facebook"></i></a>
+                                    <a href="#"><i class="ti ti-twitter-alt"></i></a>
+                                    <a href="#"><i class="ti ti-google"></i></a>
+                                    <a href="#"><i class="ti ti-linkedin"></i></a>
+                                </div>
+                                <div class="comments-notes clearfix">
+                                    &nbsp;&nbsp;<a href="javascript:void(0)" class="review-link" rel="nofollow">(No review)</a>
+                                    &nbsp;&nbsp;<a href="javascript:void(0)" class="review-link" rel="nofollow">Write to Review</a>
+                                    <div class="product-rating clearfix">
+                                        <ul class="star-rating clearfix">
+                                            <li><i class="fa fa-star-o"></i></li>
+                                            <li><i class="fa fa-star-o"></i></li>
+                                            <li><i class="fa fa-star-o"></i></li>
+                                            <li><i class="fa fa-star-o"></i></li>
+                                            <li><i class="fa fa-star-o"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product_in-stock"><i class="fa fa-check-circle"></i><span> in Stock Only 14 left</span></div>
+                                <span class="price">
+                                    <ins><span class="product-Price-amount">
+                                            <span class="product-Price-currencySymbol">$</span>110.00
+                                        </span>
+                                    </ins>
+                                    <del><span class="product-Price-amount">
+                                            <span class="product-Price-currencySymbol">$</span>123.00
+                                        </span>
+                                    </del>
+                                </span>
+                                <div class="product-details__short-description">Raising a heavy fur muff that covered the whole of her lower arm towards the viewer regor then turned to look out the window</div>
+                                <div class="mt-30 mb-35">
+                                    <div class="quantity">
+                                        <label>Quantity: </label>
+                                        <input type="text" value="1" name="quantity-number" class="qty">
+                                        <span class="inc quantity-button">+</span>
+                                        <span class="dec quantity-button">-</span>
+                                    </div>
+                                </div>
+                                <div class="actions">
+                                    <div class="add-to-cart">
+                                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor" href="#">Add to cart</a>
+                                    </div>
+                                </div>
+                                <div class="buttons">
+                                    <a href="#" rel="nofollow" data-product-id="24006456" data-product-type="simple" class="add_to_wishlist">
+                                        <i class="fa fa-heart" aria-hidden="true"></i>
+                                        <span class="wishlist-text">Add to Wish List</span>
+                                    </a>
+                                    <a href="#" class="compare button" data-product_id="24006456" rel="nofollow">
+                                        <i class="fa fa-expand" aria-hidden="true"></i>
+                                        <span class="compare-text">Compare</span>
+                                    </a>
+                                </div>
+                                <div id="block-reassurance-1" class="block-reassurance">
+                                    <ul>
+                                        <li>
+                                            <div class="block-reassurance-item">
+                                                <i class="fa fa-lock"></i>
+                                                <span>Security policy (edit with Customer reassurance module)</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="block-reassurance-item">
+                                                <i class="fa fa-truck"></i>
+                                                <span>Delivery policy (edit with Customer reassurance module)</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="block-reassurance-item">
+                                                <i class="fa fa-arrows-h"></i>
+                                                <span>Return policy (edit with Customer reassurance module)</span>
+                                            </div>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
-                            <div class="product_in-stock"><i class="fa fa-check-circle"></i><span> in Stock Only 14 left</span></div>
-                            <span class="price">
-                                <ins><span class="product-Price-amount">
-                                        <span class="product-Price-currencySymbol">$</span>110.00
-                                    </span>
-                                </ins>
-                                <del><span class="product-Price-amount">
-                                        <span class="product-Price-currencySymbol">$</span>123.00
-                                    </span>
-                                </del>
-                            </span>
-                            <div class="product-details__short-description">Raising a heavy fur muff that covered the whole of her lower arm towards the viewer regor then turned to look out the window</div>
-                            <div class="mt-30 mb-35">
-                                <div class="quantity">
-                                    <label>Quantity: </label>
-                                    <input type="text" value="1" name="quantity-number" class="qty">
-                                    <span class="inc quantity-button">+</span>
-                                    <span class="dec quantity-button">-</span>
-                                </div>
-                            </div>
-                            <div class="actions">
-                                <div class="add-to-cart">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor" href="#">Add to cart</a>
-                                </div>
-                            </div>
-                            <div class="buttons">
-                                <a href="#" rel="nofollow" data-product-id="24006456" data-product-type="simple" class="add_to_wishlist">
-                                    <i class="fa fa-heart" aria-hidden="true"></i>
-                                    <span class="wishlist-text">Add to Wish List</span>
-                                </a>
-                                <a href="#" class="compare button" data-product_id="24006456" rel="nofollow">
-                                    <i class="fa fa-expand" aria-hidden="true"></i>
-                                    <span class="compare-text">Compare</span>
-                                </a>
-                            </div>
-                            <div id="block-reassurance-1" class="block-reassurance">
-                                <ul>
-                                    <li>
-                                        <div class="block-reassurance-item">
-                                            <i class="fa fa-lock"></i>
-                                            <span>Security policy (edit with Customer reassurance module)</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="block-reassurance-item">
-                                            <i class="fa fa-truck"></i>
-                                            <span>Delivery policy (edit with Customer reassurance module)</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="block-reassurance-item">
-                                            <i class="fa fa-arrows-h"></i>
-                                            <span>Return policy (edit with Customer reassurance module)</span>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-</div><!-- page end -->
+    </div><!-- page end -->
 
 
     <!-- Javascript -->
@@ -2684,9 +3215,8 @@
     <script src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
     <script src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
     <script src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-    <script src="revolution/js/extensions/revolution.extension.video.min.js"></script>
-
     <!-- Javascript end-->
 
 </body>
+
 </html>

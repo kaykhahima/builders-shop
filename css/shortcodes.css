@@ -499,7 +499,7 @@ section.sidebar{ padding: 60px; }
 }
 @keyframes blinking {
     50%{
-      background-color: #ffd200;
+      background-color: #ffad01;
       color: #ddd;
     }
     100%{
